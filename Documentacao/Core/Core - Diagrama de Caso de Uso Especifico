@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T18:32:19.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J_wc2kIQFPoFI9jr87Ar" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T19:07:06.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0t3_ITKXqN3APqdmmAgM" version="20.5.3" type="github">
   <diagram id="dmBVvgWYx1FrVATShclE" name="Página-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-4" value="Banco de Dados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="315" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nytfdOPHVtrV-T1NI2QJ-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nytfdOPHVtrV-T1NI2QJ-5" target="nytfdOPHVtrV-T1NI2QJ-13">
+        <mxCell id="nytfdOPHVtrV-T1NI2QJ-14" value="&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nytfdOPHVtrV-T1NI2QJ-5" target="nytfdOPHVtrV-T1NI2QJ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-5" value="Criar Módulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-6" value="Deletar módulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="205" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nytfdOPHVtrV-T1NI2QJ-7" target="nytfdOPHVtrV-T1NI2QJ-18">
           <mxGeometry relative="1" as="geometry" />
@@ -54,19 +54,11 @@
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-8" value="Privar módulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nytfdOPHVtrV-T1NI2QJ-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nytfdOPHVtrV-T1NI2QJ-13" target="nytfdOPHVtrV-T1NI2QJ-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nytfdOPHVtrV-T1NI2QJ-16" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nytfdOPHVtrV-T1NI2QJ-15">
-          <mxGeometry x="0.3874" y="-3" relative="1" as="geometry">
-            <mxPoint x="-56" y="-40" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-13" value="Verificar módulos com mesmo nome" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-17" value="Fazer requisição para meio-oficiais" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="305" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="315" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nytfdOPHVtrV-T1NI2QJ-18" target="nytfdOPHVtrV-T1NI2QJ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-24" value="Inativar módulo no sistema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="205" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1038" width="580" height="382" as="geometry" />
@@ -485,6 +477,20 @@
         </mxCell>
         <mxCell id="nytfdOPHVtrV-T1NI2QJ-243" value="Banco de Dados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="3126" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nytfdOPHVtrV-T1NI2QJ-247" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nytfdOPHVtrV-T1NI2QJ-245" target="nytfdOPHVtrV-T1NI2QJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nytfdOPHVtrV-T1NI2QJ-248" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nytfdOPHVtrV-T1NI2QJ-247">
+          <mxGeometry x="-0.2696" y="-1" relative="1" as="geometry">
+            <mxPoint x="-26" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nytfdOPHVtrV-T1NI2QJ-250" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nytfdOPHVtrV-T1NI2QJ-245" target="nytfdOPHVtrV-T1NI2QJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nytfdOPHVtrV-T1NI2QJ-245" value="Criar Módulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
