@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T19:26:04.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9sAFnV7KqWefdU0QUkzQ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T13:57:39.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zNX82I3qVv8zbOnVaZ2J" version="20.5.3" type="github">
   <diagram id="kEh4m7NyXdProRRv9U-X" name="Page-1">
-    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,11 +56,20 @@
         <mxCell id="M-0kDUySXNxkc39L1J2M-6" value="Visualizar todas as provas da matéria selecionada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="330" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M-0kDUySXNxkc39L1J2M-10" target="K_-a7pwnzun0oX6V2P8q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M-0kDUySXNxkc39L1J2M-10" value="Visualizar o status de cada competência atribuída ao usuário/aprendiz atual" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="150" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M-0kDUySXNxkc39L1J2M-12" target="K_-a7pwnzun0oX6V2P8q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M-0kDUySXNxkc39L1J2M-12" value="Visualizar a data e qual o assunto de provas futuras" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622.5" y="250" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M-0kDUySXNxkc39L1J2M-14" target="K_-a7pwnzun0oX6V2P8q-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-0kDUySXNxkc39L1J2M-14" value="Visualizar sua nota em cada prova passada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625" y="370" width="140" height="80" as="geometry" />
@@ -121,8 +130,14 @@
         <mxCell id="vJSSbP7MeFHFjFRagjDe-19" value="Criar uma matéria nova" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="690" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-21" target="K_-a7pwnzun0oX6V2P8q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-21" value="Alterar dados de uma matéria existente" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="900" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-23" target="K_-a7pwnzun0oX6V2P8q-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-23" value="Deletar matéria que não possui informações relacionadas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="419" y="1000" width="150" height="80" as="geometry" />
@@ -133,8 +148,14 @@
         <mxCell id="vJSSbP7MeFHFjFRagjDe-27" value="Atribuir novas matérias nessa turma" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="740" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-29" target="K_-a7pwnzun0oX6V2P8q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-29" value="Ações de competências da matéria selecionada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="720" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-31" target="K_-a7pwnzun0oX6V2P8q-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-31" value="Ações de provas da matéria selecionada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="830" width="140" height="80" as="geometry" />
@@ -175,14 +196,23 @@
         <mxCell id="vJSSbP7MeFHFjFRagjDe-43" value="Desativar competência que possui informações relacionadas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1420" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-45" target="K_-a7pwnzun0oX6V2P8q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-45" value="Deletar competência que não possui informações relacionadas" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="1420" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-50" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="vJSSbP7MeFHFjFRagjDe-47" target="vJSSbP7MeFHFjFRagjDe-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-47" target="K_-a7pwnzun0oX6V2P8q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-47" value="Visualizar status das competências de cada aprendiz na matéria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485" y="1330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-49" target="K_-a7pwnzun0oX6V2P8q-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-49" value="Alterar status das competências de cada aprendiz" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="1190" width="140" height="80" as="geometry" />
@@ -220,11 +250,20 @@
         <mxCell id="vJSSbP7MeFHFjFRagjDe-58" value="Criar nova prova nessa matéria para essa turma" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="1540" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-60" target="K_-a7pwnzun0oX6V2P8q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-60" value="Alterar dados de provas existentes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="444" y="1580" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-62" target="K_-a7pwnzun0oX6V2P8q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-62" value="Deletar prova" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="514" y="1680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJSSbP7MeFHFjFRagjDe-64" target="K_-a7pwnzun0oX6V2P8q-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-64" value="Adicionar nota de um aprendiz em uma prova" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="444" y="1770" width="140" height="80" as="geometry" />
@@ -234,6 +273,18 @@
         </mxCell>
         <mxCell id="vJSSbP7MeFHFjFRagjDe-69" value="Ações com provas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="1870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-1" value="Banco de Dados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="240" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-8" value="Banco de Dados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="840" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-10" value="Banco de Dados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1270" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K_-a7pwnzun0oX6V2P8q-12" value="Banco de Dados" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1660" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
